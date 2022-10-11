@@ -26,10 +26,6 @@ $get = file_get_contents($url);
 
 }
 
-$string_data = file_get_contents("id.txt");
-$allowedIDs = unserialize($string_data);
-//Usuarios de los Cuales el Bot detectara comandos
-
 
 $DetectaComando = substr($Mensagem, 0 ,1); //Retorna o Barra (/)
 if($chatid == '-1001612501809'){
