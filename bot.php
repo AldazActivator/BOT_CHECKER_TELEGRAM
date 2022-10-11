@@ -1,8 +1,8 @@
 <?php
 
-//all rights reserved iAldazActivator
+//all rights reserved iAldazActivator (GERSON ALDAZ)
 //bot telegram
-// note => to make the bot pull, you must put this link => https://api.telegram.org/bot$youtoken/setWebhook?url=https://you_domain.com/check/bot/ialdaz_bot_check.php
+//note => to make the bot pull, you must put this link => https://api.telegram.org/bot$youtoken/setWebhook?url=https://you_domain.com/check/bot/ialdaz_bot_check.php
 //example -> https://api.telegram.org/bot50715830ionakla05:AAHB3_osi3cuw1mgOB8dy8nqa66XNubGosa/setWebhook?url=https://iservices-dev.us/check/bot/ialdaz_bot_check.php
 
 $api = "bot50715830ionakla05:AAHB3_osi3cuw1mgOB8dy8nqa66XNubGosa"; // <TOKEN>  bot
